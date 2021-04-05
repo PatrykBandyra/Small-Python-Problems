@@ -9,3 +9,4 @@ It finds the shortest path in a triangle (between highest level node and lowest 
  
  I am using Dijsktra algorithm (not the most optimal way to do it). Its implementation is also not optimal - you have to specify destination node so our algorithm has to run
  as many times as there are nodes in the lowest level of a triangle. 
+
