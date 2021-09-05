@@ -1,0 +1,23 @@
+DEBUG: show_welcome: 2021-09-05 23:13:48,942: Ran show_welcome() with args: ('Patrick', 12), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,942: Ran show_welcome() with args: ('John', 32), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,942: Ran show_welcome() with args: ('John', 32), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Bob', 32), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Bob', 32), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Bob', 32), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Michael', 52), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Michael', 52), and kwargs: {}
+ERROR: show_welcome: 2021-09-05 23:13:48,943: Ran show_welcome() with args: ('Michael', 52), and kwargs: {}
+My custom formatter: 2021-09-05 23:13:48,943: show_welcome: ERROR: Ran show_welcome() with args: ('Michael', 52), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,944: Ran show_welcome() with args: ('Rob', 44), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,944: Ran show_welcome() with args: ('Rob', 44), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,945: Ran show_welcome() with args: ('Greg', 74), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,945: Ran show_welcome() with args: ('Greg', 74), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,946: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,946: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,946: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:13:48,947: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
+DEBUG: show_welcome: 2021-09-05 23:13:48,947: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
+DEBUG: show_welcome: 2021-09-05 23:13:48,947: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
+DEBUG: show_welcome: 2021-09-05 23:16:58,054: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+DEBUG: show_welcome: 2021-09-05 23:16:58,054: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
+DEBUG: show_welcome: 2021-09-05 23:17:26,216: Ran show_welcome() with args: ('Greg',), and kwargs: {}

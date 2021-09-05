@@ -1,0 +1,8 @@
+My custom formatter: 2021-09-05 23:13:48,944: show_welcome: DEBUG: Ran show_welcome() with args: ('Rob', 44), and kwargs: {}
+My custom formatter: 2021-09-05 23:13:48,945: show_welcome: DEBUG: Ran show_welcome() with args: ('Greg', 74), and kwargs: {}
+Hello There :): 2021-09-05 23:13:48,945: show_welcome: DEBUG: Ran show_welcome() with args: ('Greg', 74), and kwargs: {}
+Welcome!!!: 2021-09-05 23:13:48,946: __main__: DEBUG: Ran show_welcome() with args: ('Greg', 74), and kwargs: {}
+My custom formatter: 2021-09-05 23:13:48,946: show_welcome: DEBUG: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+Hello There :): 2021-09-05 23:13:48,946: show_welcome: DEBUG: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+My custom formatter: 2021-09-05 23:13:48,947: show_welcome: DEBUG: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
+Hello There :): 2021-09-05 23:13:48,947: show_welcome: DEBUG: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}

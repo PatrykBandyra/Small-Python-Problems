@@ -1,0 +1,30 @@
+2021-09-05 20:25:57,829:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2021-09-05 20:27:57,499:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2021-09-05 20:30:24,395:__main__:&(levelname)sTried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2021-09-05 20:30:39,924:__main__:ERRORTried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2021-09-05 20:31:03,952: __main__: ERROR: Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2021-09-05 20:34:41,248: __main__: ERROR: Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/patry/PycharmProjects/Small-Python-Problems/logging/logging_example.py", line 38, in divide
+    result = x / y
+ZeroDivisionError: division by zero
