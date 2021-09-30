@@ -21,3 +21,4 @@ DEBUG: show_welcome: 2021-09-05 23:13:48,947: Ran show_welcome() with args: ('An
 DEBUG: show_welcome: 2021-09-05 23:16:58,054: Ran show_welcome() with args: ('Greg',), and kwargs: {}
 DEBUG: show_welcome: 2021-09-05 23:16:58,054: Ran show_welcome() with args: ('Andrew',), and kwargs: {'age': 66}
 DEBUG: show_welcome: 2021-09-05 23:17:26,216: Ran show_welcome() with args: ('Greg',), and kwargs: {}
+DEBUG: show_welcome: 2021-09-20 21:45:44,580: Ran show_welcome() with args: ('Patrick', 12), and kwargs: {}
